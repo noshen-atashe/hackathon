@@ -10,6 +10,8 @@
   - [Impact of this solution](#impact-of-this-solution)
 - [Azure services](#azure-services)
 - [Azure Architechture Diagram](Azure-Architechture-Diagram)
+- [Platform Development](platform-development)
+  -  [Power BI Dashboard](power-bi-dashboard)
 - [Benefits](benefits)
 - [Disaster Recovery Plan](Disaster-Recovery-Plan)
   - [Ensuring Service Recovery](Ensuring-Service-Recovery)
@@ -83,7 +85,11 @@ In essence, the implementation of this Biodiversity Monitoring System not only l
 Content for Subsection 2.2...
 
 ## Azure Architechture Diagram
-
+Image and doc
+## Platform Development
+platform description 
+### Power BI Dashboard
+specific things on the dashboard
 ## Benefits
 
 ## Disaster Recovery Plan
