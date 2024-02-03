@@ -24,9 +24,12 @@ In partnership with Microsoft Azure, we envision an innovative initiative to dri
 
 ## Use case
 The following are some key use cases for the *AI-Powered Biodiversity Monitoring System*
+
 **1. Large Scale Organizations and Governments: National Park Management**
 Large-scale organizations and government bodies responsible for managing national parks often face challenges in efficiently monitoring and preserving biodiversity. The use of advanced technology can significantly enhance their capabilities.
+
 **Objective:** Real-time Biodiversity Monitoring and Conservation
+
 **Scenario:**
 A national park, spanning vast and diverse landscapes, employs the Advanced Biodiversity Monitoring System. Equipped with robots and Azure-powered infrastructure, the system autonomously collects image data, monitors species distribution, and analyzes environmental conditions.
 
@@ -36,8 +39,11 @@ A national park, spanning vast and diverse landscapes, employs the Advanced Biod
 - **Public Engagement:** The transparent sharing of biodiversity data through the Power BI platform fosters public awareness and support for conservation initiatives.
 
 **2. User Engagement: Environmental Science and Sustainability Promotion**
+
 Promoting user engagement and interest in environmental science and sustainability is crucial for building a community dedicated to conservation efforts.
+
 **Objective:** Inspiring Environmental Awareness and Education
+
 **Scenario:**
 The Power BI platform and website are designed for public access, providing an intuitive interface for users to explore the biodiversity data collected from national parks. Interactive visualizations, such as heatmaps and species filters, make it an engaging tool for users of all ages.
 
@@ -48,6 +54,7 @@ The Power BI platform and website are designed for public access, providing an i
 
 **3. Environmental Education for Private and Personal Use**
 Individuals interested in environmental education for personal knowledge or academic purposes can leverage the Biodiversity Monitoring System for educational purposes.
+
 **Objective:** Personal Environmental Exploration and Learning
 
 **Scenario:**
@@ -60,6 +67,7 @@ Private users, such as students, researchers, or nature enthusiasts, access the 
 
 **4. Small Areas with Lower Resources: Software Infrastructure for Biodiversity Monitoring**
 In areas where deploying physical robots may be challenging due to limited resources, the software infrastructure becomes a valuable resource for understanding biodiversity changes.
+
 **Objective:** Low-Cost Biodiversity Monitoring for Small Areas
 
 **Scenario:**
