@@ -3,7 +3,8 @@
 
 ### Table of Contents
 - [Overview](#overview)
-- [Use case](#use-case)
+  - [Use case](#use-case)
+  - [Stakeholders](#stakeholders)
 - [Solution](#solution)
   - [Features](#features)
   - [Workflow](#workflow)
@@ -22,11 +23,11 @@
 # Overview
 In partnership with Microsoft Azure, we envision an innovative initiative to drive positive change through the creation of an Advanced Biodiversity Monitoring System for National Parks. This transformative system revolves around the deployment of a state-of-the-art robot, seamlessly integrated with Azure's cutting-edge photo identification AI and image recognition technologies. This solution will empower change by autonomously navigating through national park areas, capturing and analyzing images to meticulously monitor and understand the shifts in biodiversity over time. Together, we aim to harness the power of technology to inspire transformative actions and foster a sustainable, data-driven approach to conservation and environmental stewardship.
 
-## Use case
+### Use case
 The following are some key use cases for the *AI-Powered Biodiversity Monitoring System*
 
 **1. Large Scale Organizations and Governments: National Park Management**
-Large-scale organizations and government bodies responsible for managing national parks often face challenges in efficiently monitoring and preserving biodiversity. The use of advanced technology can significantly enhance their capabilities.
+Large-scale organizations and government bodies responsible for managing national parks often face challenges in efficiently monitoring and preserving biodiversity. The use of advanced technology can significantly enhance their capabilities. This is the main use case we are considering for the architecture diagram and implementation
 
 **Objective:** Real-time Biodiversity Monitoring and Conservation
 
@@ -80,7 +81,87 @@ In smaller areas with lower resources, the focus is on utilizing the Azure cloud
 
 These use cases demonstrate the versatility of the Biodiversity Monitoring System, catering to the diverse needs of large organizations, governments, individual users, and smaller areas with resource constraints. The combination of physical robots, Azure infrastructure, and user-friendly platforms creates a comprehensive solution for environmental monitoring and conservation.
 
+### Stakeholders
+Bellow is a breakdown of all potential stakeholders based on our suggested use cases
+**Primary Stakeholders:**
 
+1. **Large Scale Organizations and Governments: National Park Management:**
+   - National Park Authorities
+   - Government Environmental Agencies
+   - Conservation Organizations
+   - Park Rangers and Field Staff
+
+2. **User Engagement: Environmental Science and Sustainability Promotion:**
+   - Environmental Educators
+   - Environmental NGOs
+   - Educational Institutions
+   - Nature Enthusiasts
+
+3. **Environmental Education for Private and Personal Use:**
+   - Individual Researchers
+   - Citizen Scientists
+   - Environmental Educators
+   - Nature Photographers
+
+4. **Small Areas with Lower Resources: Software Infrastructure for Biodiversity Monitoring:**
+   - Local Environmental Agencies
+   - Community Leaders
+   - Citizen Scientists
+   - Nonprofit Organizations
+
+**Secondary Stakeholders:**
+
+1. **Overall Platform Development and Maintenance:**
+   - Software Developers
+   - System Architects
+   - Data Scientists
+   - Project Managers
+
+2. **Azure Services Integration and Maintenance:**
+   - Azure Solution Architects
+   - Azure Service Administrators
+   - Cloud Security Specialists
+   - Azure DevOps Teams
+
+3. **Robotics Hardware and Integration:**
+   - Roboticists
+   - Hardware Engineers
+   - Integration Specialists
+
+4. **Species Classification and AI Model Development:**
+   - Data Scientists
+   - Machine Learning Engineers
+   - AI Researchers
+   - Biologists and Ecologists
+
+**Tertiary Stakeholders:**
+
+1. **Public and Community Engagement:**
+   - Social Media Managers
+   - Public Relations Teams
+   - Community Outreach Coordinators
+
+2. **Regulatory Compliance and Ethics:**
+   - Legal Advisors
+   - Regulatory Compliance Officers
+   - Data Privacy Experts
+   - Ethics Review Board Members
+
+3. **Overall Platform Development and Maintenance:**
+   - User Experience (UX) Designers
+   - Quality Assurance (QA) Teams
+   - DevOps Engineers
+
+4. **Large Scale Organizations and Governments: National Park Management:**
+   - Environmental Scientists and Researchers
+   - Local Communities
+   - Tourist Boards
+
+5. **Public and Community Engagement:**
+   - Environmental Activists
+   - Community Leaders
+   - Local Government Representatives
+   - Advocacy Groups
 
 ## Solution
 general info 
